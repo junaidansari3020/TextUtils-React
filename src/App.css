@@ -40,3 +40,7 @@
 .blank{
   color: red;
 }
+
+#justify{
+  text-align: justify;
+}
